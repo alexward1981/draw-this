@@ -1,6 +1,6 @@
 {
-	draw {
-		name: 'thing',
-		level: 'hard'
+	"draw" : {
+		"name" : "thing",
+		"level" : "hard"
 	}
 }
